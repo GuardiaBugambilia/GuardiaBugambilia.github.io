@@ -11,7 +11,7 @@
     font-family: "BlenderProBook";
     font-style:normal;
     font-weight:400;
-    src: url("BlenderProBook.woff2") format("woff2");
+    src: url(cyberpunk css_files/BlenderProBook.woff2) format("woff2");
 }
 
 @font-face 
@@ -19,13 +19,13 @@
     font-family: "Oxanium";
     font-style: normal;
     font-weight: 400;
-    src: url("Oxanium.woff2") format("woff2");
+    src: url(cyberpunk css_files/Oxanium.woff2) format("woff2");
 }
 
 @font-face 
 {
     font-family: "Cyberpunk";
-    src: url("Cyberpunk.otf") format("opentype");
+    src: url(cyberpunk css_files/Cyberpunk.otf) format("opentype");
 }
 /*#endregion*/
 
