@@ -92,7 +92,7 @@ body
 /*#region cyberpunk font*/
 .oxanium-font
 {
-    font-family: "Oxanium" !important;
+    font-family: "Oxanium";
 }
 
 .cyberpunk-font,
@@ -100,8 +100,8 @@ body
 .cyberpunk-font-og,
 .cyberpunk-font-og *
 {
-    font-family: "Cyberpunk" !important;
-    text-transform: uppercase !important;
+    font-family: "Cyberpunk";
+    text-transform: uppercase;
     letter-spacing: -.25em;
 }
 
