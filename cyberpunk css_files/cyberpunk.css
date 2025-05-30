@@ -11,7 +11,7 @@
     font-family: "BlenderProBook";
     font-style: normal;
     font-weight: 400;
-    src: url("https://github.com/alddesign/cyberpunk-css/blob/main/fonts/BlenderProBook.woff2");
+    src: url("https://files.catbox.moe/0mat25.woff2");
 }
 
 @font-face 
@@ -19,13 +19,13 @@
     font-family: "Oxanium";
     font-style: normal;
     font-weight: 400;
-    src: url("https://github.com/alddesign/cyberpunk-css/blob/main/fonts/Oxanium.woff2");
+    src: url("https://files.catbox.moe/ytmrhf.woff2");
 }
 
 @font-face 
 {
     font-family: "Cyberpunk";
-    src: url("https://github.com/alddesign/cyberpunk-css/blob/main/fonts/Cyberpunk.otf");
+    src: url("https://files.catbox.moe/c79vdg.otf");
 }
 /*#endregion*/
 
