@@ -11,7 +11,7 @@
     font-family: "BlenderProBook";
     font-style: normal;
     font-weight: 400;
-    src: url("https://github.com/GuardiaBugambilia/GuardiaBugambilia.github.io/blob/main/cyberpunk%20css_files/fonts/BlenderBook.woff2");
+    src: url("https://github.com/alddesign/cyberpunk-css/blob/main/fonts/BlenderProBook.woff2");
 }
 
 @font-face 
@@ -19,13 +19,13 @@
     font-family: "Oxanium";
     font-style: normal;
     font-weight: 400;
-    src: url("Cyberpunk%20css_files/fonts/Oxanium.woff2");
+    src: url("https://github.com/alddesign/cyberpunk-css/blob/main/fonts/Oxanium.woff2");
 }
 
 @font-face 
 {
     font-family: "Cyberpunk";
-    src: url("https://github.com/GuardiaBugambilia/GuardiaBugambilia.github.io/blob/main/cyberpunk%20css_files/fonts/Cyberpunk.otf");
+    src: url("https://github.com/alddesign/cyberpunk-css/blob/main/fonts/Cyberpunk.otf");
 }
 /*#endregion*/
 
