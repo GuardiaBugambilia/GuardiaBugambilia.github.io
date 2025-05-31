@@ -12,7 +12,7 @@ var cat1_base64 = 'iVBORw0KGgoAAAANSUhEUgAAAMQAAACQCAYAAABXucSKAAAAAXNSR0IArs4c6
  * To generate other filters using HEX @link https://codepen.io/sosuke/pen/Pjoqqp
  * To generate other filters using rgb() @link https://stackoverflow.com/a/43960991
  **/
-var filter_colour = "invert(81%) sepia(100%) saturate(3965%) hue-rotate(359deg) brightness(106%) contrast(107%)";
+var filter_colour = 'invert(81%) sepia(100%) saturate(3965%) hue-rotate(359deg) brightness(106%) contrast(107%)';
 
 function get_id(i) {
 	var e = document.getElementById(i);
